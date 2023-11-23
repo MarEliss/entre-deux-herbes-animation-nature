@@ -3,11 +3,10 @@ title: "L'animatrice"
 order: 4
 in_menu: true
 ---
-Depuis l’obtention d’un BTS Gestion et Protection de la Nature (GPN) en Corse en 2019, je suis de retour dans l’Entre Deux Mers pour développer 
+Depuis l’obtention d’un _BTS Gestion et Protection de la Nature (GPN)_ en Corse en 2019, je suis de retour dans **l’Entre Deux Mers** pour développer 
 une activité agricole.   
-J’exerce aussi en bureau privé comme phytothérapeute afin de proposer un accompagnement bien-être par les plantes.   
-Les questions de l’écologie et de l’éducation 
-à l’environnement guident ma pratique au quotidien.  
+J’exerce aussi en bureau privé comme _phytothérapeute_ afin de proposer un accompagnement bien-être par les plantes.   
+Les questions de l'**écologie et de l’éducation à l’environnement** guident ma pratique au quotidien.  
 
 
 Se sentir libre,   
