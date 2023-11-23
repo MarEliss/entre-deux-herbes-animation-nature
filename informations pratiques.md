@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Informations pratiques"
 order: 1
 in_menu: true
 ---
