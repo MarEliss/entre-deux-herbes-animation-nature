@@ -1,5 +1,5 @@
 ---
-title: "Animation Développement Durable"
+title: "EEDD"
 order: 2
 in_menu: true
 ---
