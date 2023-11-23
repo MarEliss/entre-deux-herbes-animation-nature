@@ -3,10 +3,10 @@ title: "Informations pratiques"
 order: 3
 in_menu: true
 ---
-« Je propose une meilleure connaissance 
-de la faune, de la flore et de l’environnement à travers des ateliers scientifiques 
-ou créatifs, des jeux ou des parcours 
-découverte. »
+Marion Elissalde  
+éducatrice Environnement  
+06 35 29 82 83   
+marion.elissalde@yahoo.fr  
 
 ##Environnement   
 Les interventions ont lieu sur le terrain ou dans les écoles et les centres, sur tout le territoire 
