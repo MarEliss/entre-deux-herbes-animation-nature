@@ -3,8 +3,6 @@ title: "Thématiques"
 order: 1
 in_menu: true
 ---
-# Thématique proposées
-
 -La biodiversité au coin de la rue   
 Découverte de la diversité et reconnaissance de la flore.
 
