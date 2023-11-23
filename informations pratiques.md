@@ -1,6 +1,6 @@
 ---
 title: "Informations pratiques"
-order: 1
+order: 3
 in_menu: true
 ---
 « Je propose une meilleure connaissance 

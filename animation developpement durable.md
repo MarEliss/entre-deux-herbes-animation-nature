@@ -1,6 +1,6 @@
 ---
 title: "Animation Développement Durable"
-order: 1
+order: 2
 in_menu: true
 ---
 Les propositions thématiques s’enrichissent à chaque animation du partenariat avec les équipes d’enseignants ou d’éducateurs ainsi que des parcours des publics.  
